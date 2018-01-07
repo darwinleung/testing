@@ -1,4 +1,2 @@
-# testing
-testing hello world
-
-modified
+# Testing
+This is a repo for testing only.
